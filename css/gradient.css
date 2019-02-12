@@ -1,13 +1,13 @@
-animate{
+.animate{
   color: #bad6d3;
   -webkit-background-size: cover;
 
   background: linear-gradient(157deg, #e2ffad, #1de099, #1dc8dc, #1d52cd);
   background-size: 800% 800%;
 
-  -webkit-animation: gradient 17s ease infinite;
-  -moz-animation: gradient 17s ease infinite;
-  animation: gradient 17s ease infinite;
+  -webkit-animation: gradient 8s ease infinite;
+  -moz-animation: gradient 8s ease infinite;
+  animation: gradient 8s ease infinite;
 }
 
 @-webkit-keyframes gradient {
